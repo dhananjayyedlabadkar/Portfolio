@@ -75,8 +75,8 @@ align-self: center
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: I'm
-secondTitle: Dhananjay Yedlabadkar,
+firstTitle: I'm Dhananjay Yedlabadkar
+secondTitle: ,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
